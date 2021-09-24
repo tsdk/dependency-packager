@@ -1,4 +1,4 @@
-// @ts-ignore
+// @ts-nocheck
 import * as walk from "acorn-walk";
 import * as meriyah from "meriyah";
 
